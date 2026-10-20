@@ -1,0 +1,17 @@
+Eigene Bilder für die Lern-App (Vorstunde EUV 4 – At the campsite)
+==================================================================
+Einfach mit genau diesem Namen hier ablegen (.jpg, .png oder .webp) – die App nimmt sie automatisch.
+Fehlt ein Bild, zeigt die App ihre eigene Zeichnung (Campingplatz, Rezeption, Max, Rezeptionistin, Flyer).
+
+logo             kleines Bild oben links neben dem Teamnamen (quadratisch, ca. 200×200)
+bg_hero          Startseite, großes Bild oben (Querformat, ca. 1600×800; rechts bleibt Platz für Text)
+bg_reception     Rezeption am Campingplatz – Hintergrund beim Üben (Querformat 16:9, ca. 1600×900)
+max              Max (Hochformat 3:4, ca. 600×800, Gesicht im oberen Drittel)
+receptionist     Rezeptionistin (Hochformat 3:4, ca. 600×800)
+flyer_canoe      Flyer Canoeing (Level 4, Aktivitäten-Fenster; z. B. aus „Requisite Kanuticket.docx“)
+flyer_climbing   Flyer Rock climbing
+flyer_campfire   Flyer Campfire
+level1 … level4  optional: Bilder für die vier Level-Kacheln auf der Startseite (fast quadratisch)
+
+Aktuell eingesetzt: keine eigenen Bilder – überall die gezeichneten Motive der App.
+Nach dem Austauschen eines Bildes in sw.js die VERSION hochzählen (z. B. vs-euv4-camp-v2), damit die iPads neu laden.
